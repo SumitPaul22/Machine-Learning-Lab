@@ -1,4 +1,4 @@
-# Machine-Learning-Lab
+# Machine Learning Lab
 Basic Machine Learning Codes:
 1. Implementing K-Means
 2. Implement Decision Tree learning
